@@ -24,8 +24,7 @@
             "sniffing": {
                 "enabled": true,
                 "destOverride": [
-                    "http",
-                    "tls"
+                    "http"
                 ]
             }
         },
@@ -52,8 +51,7 @@
             "sniffing": {
                 "enabled": true,
                 "destOverride": [
-                    "http",
-                    "tls"
+                    "http"
                 ]
             }
         },
